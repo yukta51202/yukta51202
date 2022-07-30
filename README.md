@@ -20,19 +20,9 @@ I am a Full Stack Web Developer and Designer currently in 3rd year BCA. I am a c
     }
 </style>
 
-<img src = "Logos/html.png" alt = "HTML" height = "60px">
-<img src = "Logos/css.png" alt = "CSS" height = "60px">
-<img src = "Logos/js.png" alt = "JavaScript" height = "60px">
-<img src = "Logos/nodejs.png" alt = "NodeJs" height = "60px">
-<img src = "Logos/reactjs.png" alt = "ReactJs" height = "60px">
-<img src = "Logos/cpp.png" alt = "C++" height = "60px">
-<img src = "Logos/mysql.png" alt = "MySQL" height = "60px">
+<img src = "Logos/html.png" alt = "HTML" height = "40px"> <img src = "Logos/css.png" alt = "CSS" height = "40px"> <img src = "Logos/js.png" alt = "JavaScript" height = "40px"> <img src = "Logos/nodejs.png" alt = "NodeJs" height = "40px"> <img src = "Logos/reactjs.png" alt = "ReactJs" height = "40px"> <img src = "Logos/cpp.png" alt = "C++" height = "40px"> <img src = "Logos/mysql.png" alt = "MySQL" height = "40px">
 <br> <br>
-<img src = "Logos/azure.png" alt = "Microsoft Azure" height = "60px">
-<img src = "Logos/ai.png" alt = "Adobe Illustrator" height = "60px">
-<img src = "Logos/id.png" alt = "Adobe InDesign" height = "60px">
-<img src = "Logos/ps.png" alt = "Adobe Photoshop" height = "60px">
-<img src = "Logos/xd.png" alt = "Adobe XD" height = "60px">
+<img src = "Logos/azure.png" alt = "Microsoft Azure" height = "40px"> <img src = "Logos/ai.png" alt = "Adobe Illustrator" height = "40px"> <img src = "Logos/id.png" alt = "Adobe InDesign" height = "40px"> <img src = "Logos/ps.png" alt = "Adobe Photoshop" height = "40px"> <img src = "Logos/xd.png" alt = "Adobe XD" height = "40px">
 
 <h2> Connect with me: </h2>
 
