@@ -20,7 +20,7 @@ I am a Full Stack Web Developer and Designer currently in 3rd year BCA. I am a c
     }
 </style>
 
-<img src = "Logos/html.png" alt = "HTML" height = "30px">
+<img src = "Logos/html.png" alt = "HTML" height = "60px">
 <img src = "Logos/css.png" alt = "CSS" height = "10%">
 <img src = "Logos/js.png" alt = "JavaScript" height = "10%">
 <img src = "Logos/nodejs.png" alt = "NodeJs" height = "10%">
