@@ -15,7 +15,7 @@ I am a Full Stack Web Developer and Designer currently in 3rd year BCA. I am a c
 <h2> Languages and Tools: </h2>
 
 <style>
-    img{
+    img {
         padding-right: 10px;
     }
 </style>
@@ -26,5 +26,5 @@ I am a Full Stack Web Developer and Designer currently in 3rd year BCA. I am a c
 
 <h2> Connect with me: </h2>
 
-<a href = "https://www.linkedin.com/in/yukta-malhotra-3740ab222/" target = "_blank"> <img src = "Logos/linkedin.png" alt = "Linkedin Profile" height = "60px"> </a>
-<a href = "mailto:yukta.51202.malhotra@gmail.com"> <img src = "Logos/gmail.png" alt = "Gmail" height = "60px"> </a>
+<a href = "https://www.linkedin.com/in/yukta-malhotra-3740ab222/" target = "_blank"> <img src = "Logos/linkedin.png" alt = "Linkedin Profile" height = "40px"> </a>
+<a href = "mailto:yukta.51202.malhotra@gmail.com"> <img src = "Logos/gmail.png" alt = "Gmail" height = "40px"> </a>
