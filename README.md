@@ -2,7 +2,7 @@
 
 <h2> Glad to see you here! </h2>
 
-I am a Full Stack Web Developer and Designer currently in 3rd year BCA. I am a confident and communicatively strong person always looking ahead in the future!
+I am a Full Stack Web Developer and Designer. I am a confident and communicatively strong person always looking ahead in the future!
 
 <h2> Talking about personal stuff: </h2>
 
