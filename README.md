@@ -20,14 +20,14 @@ I am a Full Stack Web Developer and Designer currently in 3rd year BCA. I am a c
 <img align = "left" src = "Logos/nodejs.png" alt = "NodeJs" height = "30px"> 
 <img align = "left" src = "Logos/reactjs.png" alt = "ReactJs" height = "30px"> 
 <img align = "left" src = "Logos/cpp.png" alt = "C++" height = "30px"> 
-<img align = "left" src = "Logos/mysql.png" alt = "MySQL" height = "35px">
+<img align = "left" src = "Logos/mysql.png" alt = "MySQL" height = "45px">
 <img align = "left" src = "Logos/azure.png" alt = "Microsoft Azure" height = "30px"> 
 <img align = "left" src = "Logos/ai.png" alt = "Adobe Illustrator" height = "30px"> 
 <img align = "left" src = "Logos/id.png" alt = "Adobe InDesign" height = "30px"> 
 <img align = "left" src = "Logos/ps.png" alt = "Adobe Photoshop" height = "30px"> 
 <img align = "left" src = "Logos/xd.png" alt = "Adobe XD" height = "30px">
 
-<br><br>
+<br>
 
 <h2> Connect with me: </h2>
 
