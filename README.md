@@ -14,21 +14,23 @@ I am a Full Stack Web Developer and Designer currently in 3rd year BCA. I am a c
 
 <h2> Languages and Tools: </h2>
 
-<img align = "left" src = "Logos/html.png" alt = "HTML" height = "40px"> 
-<img align = "left" src = "Logos/css.png" alt = "CSS" height = "40px"> 
-<img align = "left"src = "Logos/js.png" alt = "JavaScript" height = "40px"> 
-<img align = "left" src = "Logos/nodejs.png" alt = "NodeJs" height = "40px"> 
-<img align = "left" src = "Logos/reactjs.png" alt = "ReactJs" height = "40px"> 
-<img align = "left" src = "Logos/cpp.png" alt = "C++" height = "40px"> 
-<img align = "left" src = "Logos/mysql.png" alt = "MySQL" height = "40px">
+<img align = "left" src = "Logos/html.png" alt = "HTML" height = "30px"> 
+<img align = "left" src = "Logos/css.png" alt = "CSS" height = "30px"> 
+<img align = "left"src = "Logos/js.png" alt = "JavaScript" height = "30px"> 
+<img align = "left" src = "Logos/nodejs.png" alt = "NodeJs" height = "30px"> 
+<img align = "left" src = "Logos/reactjs.png" alt = "ReactJs" height = "30px"> 
+<img align = "left" src = "Logos/cpp.png" alt = "C++" height = "30px"> 
+<img align = "left" src = "Logos/mysql.png" alt = "MySQL" height = "30px">
 <br> <br>
-<img align = "left" src = "Logos/azure.png" alt = "Microsoft Azure" height = "40px"> 
-<img align = "left" src = "Logos/ai.png" alt = "Adobe Illustrator" height = "40px"> 
-<img align = "left" src = "Logos/id.png" alt = "Adobe InDesign" height = "40px"> 
-<img align = "left" src = "Logos/ps.png" alt = "Adobe Photoshop" height = "40px"> 
-<img align = "left" src = "Logos/xd.png" alt = "Adobe XD" height = "40px">
+<img align = "left" src = "Logos/azure.png" alt = "Microsoft Azure" height = "30px"> 
+<img align = "left" src = "Logos/ai.png" alt = "Adobe Illustrator" height = "30px"> 
+<img align = "left" src = "Logos/id.png" alt = "Adobe InDesign" height = "30px"> 
+<img align = "left" src = "Logos/ps.png" alt = "Adobe Photoshop" height = "30px"> 
+<img align = "left" src = "Logos/xd.png" alt = "Adobe XD" height = "30px">
+
+<br><br>
 
 <h2> Connect with me: </h2>
 
-<a href = "https://www.linkedin.com/in/yukta-malhotra-3740ab222/" target = "_blank"> <img align = "left" src = "Logos/linkedin.png" alt = "Linkedin Profile" height = "40px"> </a>
-<a href = "mailto:yukta.51202.malhotra@gmail.com"> <img align = "left" src = "Logos/gmail.png" alt = "Gmail" height = "40px"> </a>
+<a href = "https://www.linkedin.com/in/yukta-malhotra-3740ab222/" target = "_blank"> <img align = "left" src = "Logos/linkedin.png" alt = "Linkedin Profile" height = "30px"> </a>
+<a href = "mailto:yukta.51202.malhotra@gmail.com"> <img align = "left" src = "Logos/gmail.png" alt = "Gmail" height = "30px"> </a>
