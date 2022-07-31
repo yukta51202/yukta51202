@@ -20,8 +20,7 @@ I am a Full Stack Web Developer and Designer currently in 3rd year BCA. I am a c
 <img align = "left" src = "Logos/nodejs.png" alt = "NodeJs" height = "30px"> 
 <img align = "left" src = "Logos/reactjs.png" alt = "ReactJs" height = "30px"> 
 <img align = "left" src = "Logos/cpp.png" alt = "C++" height = "30px"> 
-<img align = "left" src = "Logos/mysql.png" alt = "MySQL" height = "45px">
-<br> <br>
+<img align = "left" src = "Logos/mysql.png" alt = "MySQL" height = "35px">
 <img align = "left" src = "Logos/azure.png" alt = "Microsoft Azure" height = "30px"> 
 <img align = "left" src = "Logos/ai.png" alt = "Adobe Illustrator" height = "30px"> 
 <img align = "left" src = "Logos/id.png" alt = "Adobe InDesign" height = "30px"> 
@@ -32,5 +31,5 @@ I am a Full Stack Web Developer and Designer currently in 3rd year BCA. I am a c
 
 <h2> Connect with me: </h2>
 
-<a href = "https://www.linkedin.com/in/yukta-malhotra-3740ab222/" target = "_blank"> <img align = "left" src = "Logos/linkedin.png" alt = "Linkedin Profile" height = "26px"> </a>
-<a href = "mailto:yukta.51202.malhotra@gmail.com"> <img align = "left" src = "Logos/gmail.png" alt = "Gmail" height = "26px"> </a>
+<a href = "https://www.linkedin.com/in/yukta-malhotra-3740ab222/" target = "_blank"> <img align = "left" src = "Logos/linkedin.png" alt = "Linkedin Profile" height = "28px"> </a>
+<a href = "mailto:yukta.51202.malhotra@gmail.com"> <img align = "left" src = "Logos/gmail.png" alt = "Gmail" height = "28px"> </a>
